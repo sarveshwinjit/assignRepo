@@ -1,2 +1,2 @@
-This is file1.
+This is file1., in branch2
 This content is added on branch1.
